@@ -1,4 +1,4 @@
-```javascript
+
 export const BASE_URL = "https://ai-interview-analyzer-9kva.onrender.com";
 
 // Get Question (dummy for now)
@@ -32,4 +32,4 @@ export const submitAnswer = async (answer) => {
     };
   }
 };
-```
+
